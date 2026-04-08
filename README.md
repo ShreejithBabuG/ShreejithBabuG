@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and open source projects.
 - 🌱  I’m currently learning React, TensorFlow, and advanced algorithms.
 - 💞️ I’m looking to collaborate on open source projects, hackathons, and innovative tech solutions.
-- 📫 How to reach me - shreejithbu2213006@ssn.edu.in 
+- 📫 How to reach me - shreetomail@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m a huge cricket fan and love analyzing match statistics and player performances.
 
