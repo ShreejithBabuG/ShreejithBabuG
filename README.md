@@ -2,7 +2,20 @@
 
 # Shreejith Babu G
 
-### Software Engineer at Citi | Research Intern at Carnegie Mellon University
+### Building production systems at Citi.
+### Exploring programming languages at Carnegie Mellon University.
+
+<br>
+
+<a href="https://github.com/ShreejithBabuG">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shreejith-babu-g-aa609225a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shreetomail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -10,14 +23,16 @@
 
 ## About
 
-I'm a software engineer passionate about building reliable and scalable systems. I enjoy solving complex engineering problems, designing efficient software, and continuously learning new technologies. My interests include distributed systems, backend engineering, cloud computing, and full-stack development.
+I enjoy building scalable software, designing reliable backend systems, and solving challenging engineering problems.
+
+My interests include distributed systems, programming languages, cloud infrastructure, system design, and full-stack development. I enjoy working on projects that combine solid engineering principles with practical impact.
 
 ---
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript,html,css,sql"/>
 </p>
 
 ---
@@ -25,23 +40,13 @@ I'm a software engineer passionate about building reliable and scalable systems.
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,docker,git,github,linux,vscode"/>
 </p>
 
 ---
 
-## Connect
+<div align="center">
 
-<p>
-  <a href="https://github.com/ShreejithBabuG">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shreejith-babu-g-aa609225a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shreetomail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+*"Build things that last."*
+
+</div>
