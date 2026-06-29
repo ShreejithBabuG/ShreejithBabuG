@@ -1,104 +1,109 @@
 <div align="center">
 
-# 👋 Hi, I'm Shreejith Babu
+```
+███████╗██╗  ██╗██████╗ ███████╗███████╗     ██╗██╗████████╗██╗  ██╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██╔════╝     ██║██║╚══██╔══╝██║  ██║
+███████╗███████║██████╔╝█████╗  █████╗       ██║██║   ██║   ███████║
+╚════██║██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██   ██║██║   ██║   ██╔══██║
+███████║██║  ██║██║  ██║███████╗███████╗╚█████╔╝██║   ██║   ██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-### Software Engineer • Distributed Systems • AI • Open Source
+### `CS Undergrad` · `Research Intern @ CMU` · `Ex-Intern @ Citi`
 
-<p>
-Building scalable software, contributing to research, and solving real-world problems.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Software+Engineer;Distributed+Systems+Enthusiast;Open+Source+Contributor;Machine+Learning+Explorer;Backend+Developer;Always+Learning+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=ShreejithBabuG&label=Profile+Views&color=0e75b6&style=flat" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreejithbabu-g)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreejithBabu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreetomail@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
 ---
 
-# 💫 About Me
+## `$ whoami`
 
-```text
-> whoami
-
-Name        :: Shreejith Babu
-Education   :: B.E. Computer Science
-Role        :: Software Engineer
-Interest    :: Distributed Systems | Backend | AI | Open Source
-Location    :: Chennai, India
+```yaml
+name: Shreejith Babu G
+role: Software Engineer / Research Intern
+location: Chennai, India
+education: B.E. Computer Science @ SSN College of Engineering (2022–2026)
+cgpa: 8.255 / 10
+currently_building: Meerkat — a distributed reactive programming language @ CMU
+interests: [Distributed Systems, AI/ML, Backend Engineering, Systems Programming]
 ```
 
-- 🎓 Computer Science Graduate
-- 💼 Software Engineer
-- 🔬 Passionate about Distributed Systems
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Always learning new technologies
-- 💡 Love building scalable software
+---
+
+## `$ experience --verbose`
+
+<table>
+<tr>
+<td width="60px" align="center">🏦</td>
+<td>
+
+**Software Engineering Intern — Citi India** `Jun 2025 – Jul 2025`
+
+Designed token-based REST APIs across microservices for Citi's Investigation Platform, cutting manual workflows by **40%**. Built data pipelines handling **130K+ records**, boosting processing efficiency by **25%** and slashing latency by **20%**.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🔬</td>
+<td>
+
+**Research Intern — Carnegie Mellon University** `Jan 2026 – Present`
+
+Architecting the core runtime of **Meerkat**, a distributed reactive programming language in Rust — expression evaluation, closure capture, and reactive state propagation. Designed a transport-agnostic networking layer with **libp2p**, validated through **100+ distributed round-trip tests** across native and WebAssembly environments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+## `$ cat skills.json`
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql,c" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-Pandas • NumPy • Scikit-Learn • OpenCV
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
-</p>
+```json
+{
+  "languages":  ["Java", "Python", "C", "JavaScript", "SQL", "Rust"],
+  "backend":    ["REST APIs", "Microservices", "Flask", "FastAPI"],
+  "frontend":   ["ReactJS", "HTML", "CSS", "Bootstrap"],
+  "ai_ml":      ["Machine Learning", "NLP", "LLMs", "RAG", "Prompt Engineering", "OpenCV"],
+  "tools":      ["Git", "GitHub", "Unix/Linux", "VS Code", "FAISS", "Ollama", "libp2p"],
+  "cs_core":    ["DSA", "OOP", "DBMS", "Operating Systems", "Distributed Systems"]
+}
+```
 
 ---
 
-# 🌐 Connect With Me
+## `$ ls ./achievements`
 
-<p align="center">
+```
+🏆  Top 5%     Adobe GenSolve Hackathon 2024
+🥈  2nd Place  ML Disaster Tweet Classification — IIT Madras Research Competition  
+⚡  400+       LeetCode Problems Solved  (Peak Rating: 1422)
+⭐  2-Star     CodeChef  (Peak Rating: 1589)
+```
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+## `$ ping shreejith`
 
-</p>
+<div align="center">
+
+| Platform | Handle |
+|----------|--------|
+| 📧 Email | [shreetomail@gmail.com](mailto:shreetomail@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/shreejithbabu-g](https://linkedin.com/in/shreejithbabu-g) |
+| 🐙 GitHub | [github.com/ShreejithBabu](https://github.com/ShreejithBabu) |
+| 📞 Phone | +91 8946041166 |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code."*
-
-⭐ Thanks for visiting my profile!
+*`Building things that scale. Breaking things that don't.`*
 
 </div>
