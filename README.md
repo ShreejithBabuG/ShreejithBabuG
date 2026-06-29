@@ -2,17 +2,18 @@
 
 # Shreejith Babu G
 
-### Building production systems at Citi.
-### Exploring programming languages at Carnegie Mellon University.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+at+Citi;Research+Intern+at+Carnegie+Mellon+University;Building+Scalable+Software;Exploring+Programming+Languages+%26+Distributed+Systems" alt="Typing SVG" />
 
-<br>
+<br/>
 
 <a href="https://github.com/ShreejithBabuG">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shreejith-babu-g-aa609225a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:shreetomail@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -23,16 +24,23 @@
 
 ## About
 
-I enjoy building scalable software, designing reliable backend systems, and solving challenging engineering problems.
+I'm a software engineer who enjoys building reliable systems and solving challenging engineering problems.
 
-My interests include distributed systems, programming languages, cloud infrastructure, system design, and full-stack development. I enjoy working on projects that combine solid engineering principles with practical impact.
+My interests include:
+
+- Distributed Systems
+- Programming Languages
+- Backend Engineering
+- Cloud Computing
+- Full-Stack Development
+- System Design
 
 ---
 
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript,html,css,sql" />
 </p>
 
 ---
@@ -40,13 +48,21 @@ My interests include distributed systems, programming languages, cloud infrastru
 ## Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,redis" />
 </p>
 
 ---
 
 <div align="center">
 
-*"Build things that last."*
+*"Build software that scales."*
 
 </div>
