@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Shreejith Babu G
@@ -46,4 +45,3 @@ I'm a software engineer passionate about building reliable and scalable systems.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-```
